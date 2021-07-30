@@ -1,1 +1,1 @@
-# NEWS-Streaming-APP
+# news-app-android
